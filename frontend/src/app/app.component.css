@@ -1,0 +1,9 @@
+.th-acoes {
+    width: 150px;
+}
+
+.td-acoes {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
